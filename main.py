@@ -3,8 +3,8 @@ import telegram
 import openai
 
 
-TELEGRAM_BOT_TOKEN = '6444873603:AAG7CC5G1xM1tSHMHdcMbyG0McLrKN-R8Ss'
-OPENAI_API_KEY = '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'
+TELEGRAM_BOT_TOKEN = '***********************************************'
+OPENAI_API_KEY = '****************************************************'
 bot =telebot.TeleBot(Token)
 
 
