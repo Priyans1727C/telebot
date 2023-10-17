@@ -60,7 +60,7 @@ def costom(message):
         elif(msg in['what is your name?']):
             bot.reply_to(message,'i am Anuj')
         else:
-            bot.reply_to(message,'ujjwall chutiya hai')
+            bot.reply_to(message,'I dont know the the answer')
         
             
         
